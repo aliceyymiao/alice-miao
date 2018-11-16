@@ -1,7 +1,7 @@
 {
   "main.css": "/alice-miao/static/css/main.1bdf1f72.chunk.css",
-  "main.js": "/alice-miao/static/js/main.8c558a74.chunk.js",
-  "main.js.map": "/alice-miao/static/js/main.8c558a74.chunk.js.map",
+  "main.js": "/alice-miao/static/js/main.154c4af1.chunk.js",
+  "main.js.map": "/alice-miao/static/js/main.154c4af1.chunk.js.map",
   "static/css/1.d11c7681.chunk.css": "/alice-miao/static/css/1.d11c7681.chunk.css",
   "static/js/1.9579cdd2.chunk.js": "/alice-miao/static/js/1.9579cdd2.chunk.js",
   "static/js/1.9579cdd2.chunk.js.map": "/alice-miao/static/js/1.9579cdd2.chunk.js.map",
@@ -10,6 +10,6 @@
   "static/css/1.d11c7681.chunk.css.map": "/alice-miao/static/css/1.d11c7681.chunk.css.map",
   "static/css/main.1bdf1f72.chunk.css.map": "/alice-miao/static/css/main.1bdf1f72.chunk.css.map",
   "index.html": "/alice-miao/index.html",
-  "precache-manifest.1bdca5fad2ea0ff1943997ab3595e52b.js": "/alice-miao/precache-manifest.1bdca5fad2ea0ff1943997ab3595e52b.js",
+  "precache-manifest.61652f5e70d219190fdc9a9c1023d3d4.js": "/alice-miao/precache-manifest.61652f5e70d219190fdc9a9c1023d3d4.js",
   "service-worker.js": "/alice-miao/service-worker.js"
 }

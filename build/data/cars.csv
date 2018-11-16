@@ -1,5 +1,5 @@
-﻿img,manufacturer,model,price,link
-img/porsche.jpg,Porsche,911,The price is 135000.,https://www.porsche.com/usa/models/911/
-img/nissan.jpg,Nissan,GT-R,The price is 80000.,https://www.nissanusa.com/vehicles/sports-cars/gt-r.html
-img/bmw.jpg,BMW,M3,The price is 60500.,https://www.bmwusa.com/vehicles/m-models/m3.html
-img/audi.jpg,Audi,S5,The price is 53000.,https://www.audiusa.com/models/audi-s5-coupe.html
+﻿img,manufacturer,model,description,link
+img/porsche.jpg,Porsche,911,"I've always been loving Porsche 911. My dad bought me a toy car when I was a kid, and it was Porsche 911.",https://www.porsche.com/usa/models/911/
+img/nissan.jpg,Nissan,GT-R,I don't know a whole lot about Nissan cars but this one looks pretty cool.,https://www.nissanusa.com/vehicles/sports-cars/gt-r.html
+img/bmw.jpg,BMW,M3,BMW cars always have exellent public reputation. And this blue M3 just looks so cool.,https://www.bmwusa.com/vehicles/m-models/m3.html
+img/audi.jpg,Audi,S5,Audi cars are solid and masculine. I love it.,https://www.audiusa.com/models/audi-s5-coupe.html

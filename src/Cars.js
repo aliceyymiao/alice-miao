@@ -31,7 +31,7 @@ export class Cars extends Component {
                                    { d.model } 
                                   </CardSubtitle>
                                   <CardText>
-                                    { d.price }
+                                    { d.description }
                                   </CardText>
                                   <a target="_blank" rel="noopener noreferrer" href={ d.link }>
                                     <Button>Link</Button>
