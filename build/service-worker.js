@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/alice-miao/precache-manifest.61652f5e70d219190fdc9a9c1023d3d4.js"
+  "/alice-miao/precache-manifest.ffda7f3914f69d074e6f8f594ad0f937.js"
 );
 
 workbox.clientsClaim();
